@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "b28f752426ab83c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3470829f260e16",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "internet/API.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8fb368d74533661",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c74611f0863d485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3062a1f1ffcb6902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5dd45f342353c2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "018b4e2bb8b34461",
+    "type": "split",
+    "children": [
+      {
+        "id": "16aa908bc835edae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d70d9e0b4004a049",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "internet/API.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76b2fbbbeed05072",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "internet/API.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb3470829f260e16",
+  "lastOpenFiles": [
+    "internet/API.md",
+    "Code/pure functions.md",
+    "internet/Http.md",
+    "Code/Snippets/Typescript(js).md",
+    "Code/Snippets.md",
+    "request response model.md"
+  ]
+}

@@ -1,6 +1,6 @@
 # Pure Functions
 - For a consistent input the output will remain the same.
-- Pure functions do not have [^1]: side effects
+- Pure functions do not have ==side effects==[^1]
 - Pure functions are stateless
 ### Example (js)
 ```javascript

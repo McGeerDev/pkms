@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "f2891184393b983e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda79c1926d844de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linear Algebra/invertable.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a00c587aef3cc09a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aebbd8dbb33ae19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5556775cbebe425",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b33ded0df4823d80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b04da8662a20fb37",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53fc2f3fc4e4607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5d4521901d80004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Algebra/invertable.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eda79c1926d844de",
+  "lastOpenFiles": [
+    "Linear Algebra/invertable.md",
+    "Linear Algebra/Identity matrix.md",
+    "Linear Algebra/Determinants.md",
+    "Linear Algebra/Elementary Matrices.md",
+    "Development/Code/pure functions.md",
+    "Untitled.md",
+    "README.md"
+  ]
+}

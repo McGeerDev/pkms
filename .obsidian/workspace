@@ -7,8 +7,12 @@
         "id": "45eb9d761021ab65",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Snippets/typescript.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOC",
+                "query": "tag:#Internet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snippets/typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "45eb9d761021ab65",
   "lastOpenFiles": [
+    "Snippets/typescript.md",
+    "Atoms/packets.md",
+    "Atoms/CRUD.md",
+    "Atoms/internet.md",
+    "Atoms/Transmission Control Protocol.md",
     "Journal/2022-03-31.md",
     "Templates/JournalTemplate.md",
     "Atoms/Identity Matrix.md",
     "Atoms/Hypertext Transfer Protocol.md",
-    "Atoms/Elementary Matrix.md",
-    "Atoms/Software Architecture.md",
-    "Atoms/Tool Integration.md",
-    "Templates/MOCTemplate.md",
-    "Atoms/Interface Segregation Principle.md",
-    "Atoms/CRUD.md"
+    "Atoms/Elementary Matrix.md"
   ]
 }

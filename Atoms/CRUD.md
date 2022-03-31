@@ -1,7 +1,7 @@
 202203311320
 
 Status: #web-core
-Tags: [[back-end]] - [http](Hypertext Transfer Protocol)
+Tags: [http](Hypertext Transfer Protocol) - [datastructures](Datastructures)
 
 # CRUD
 ### Create

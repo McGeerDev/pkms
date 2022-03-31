@@ -7,3 +7,4 @@ Tags: #typescript
 ```typescript 
 const functionName = async () => {}
 ```
+

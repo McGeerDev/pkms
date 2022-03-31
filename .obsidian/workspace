@@ -7,8 +7,12 @@
         "id": "45eb9d761021ab65",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Snippets/typescript.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snippets/typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +100,15 @@
   },
   "active": "45eb9d761021ab65",
   "lastOpenFiles": [
-    "Linear Algebra/Determinants.md",
-    "Linear Algebra/Elementary Matrices.md",
-    "Linear Algebra/invertable.md",
-    "Linear Algebra/Identity matrix.md",
-    "Development/Code/Pure functions.md",
-    "Development/Code/Snippets/typescript.md",
+    "Snippets/typescript.md",
     "README.md",
-    "Atoms/singular.md",
-    "Development/internet/Hypertext Transfer Protocol.md",
-    "Development/internet/Application Programming Interface.md"
+    "Atoms/Determinants.md",
+    "Atoms/Elementary Matrices.md",
+    "Atoms/Hypertext Transfer Protocol.md",
+    "Atoms/Identity matrix.md",
+    "Atoms/pure functions.md",
+    "Atoms/Inverse Matrix.md",
+    "Atoms/Interface Segregation Principle.md",
+    "Templates/BasicNoteTemplate.md"
   ]
 }

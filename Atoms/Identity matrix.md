@@ -1,3 +1,8 @@
+202203310953
+
+Status: #idea
+Tags: 
+
 # Identity Matrices
 
 When talking about Linear equations, Identity matrices simply show the identity of each element in the matrix.
@@ -29,3 +34,6 @@ x_{mn} = C_{n}\\
 $$
 $$where \  n = m$$
 Thus the identity of each element x in the linear equation is the constant C
+
+---
+# References

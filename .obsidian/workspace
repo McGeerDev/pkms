@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Algebra/invertable.md",
+            "file": "Atoms/Interface Segregation Principle.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/invertable.md",
+                "file": "Atoms/Interface Segregation Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "228df4a4996f8602",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -84,17 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "eda79c1926d844de",
   "lastOpenFiles": [
+    "Atoms/Interface Segregation Principle.md",
+    "Templates/BasicZettelkastenTemplate.md",
+    "Atoms/Interface Separation Principle.md",
+    "Development/Code/Async.md",
+    "Development/Code/Snippets/Typescript(js).md",
     "Linear Algebra/invertable.md",
     "Linear Algebra/Identity matrix.md",
     "Linear Algebra/Determinants.md",
     "Linear Algebra/Elementary Matrices.md",
-    "Development/Code/pure functions.md",
-    "Untitled.md",
-    "README.md"
+    "Development/Code/pure functions.md"
   ]
 }

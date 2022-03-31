@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eda79c1926d844de",
+        "id": "45eb9d761021ab65",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Atoms/Interface Segregation Principle.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#core_programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms/Interface Segregation Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +90,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "eda79c1926d844de",
+  "active": "45eb9d761021ab65",
   "lastOpenFiles": [
-    "Atoms/Interface Segregation Principle.md",
-    "Templates/BasicZettelkastenTemplate.md",
-    "Atoms/Interface Separation Principle.md",
-    "Development/Code/Async.md",
-    "Development/Code/Snippets/Typescript(js).md",
-    "Linear Algebra/invertable.md",
-    "Linear Algebra/Identity matrix.md",
     "Linear Algebra/Determinants.md",
     "Linear Algebra/Elementary Matrices.md",
-    "Development/Code/pure functions.md"
+    "Linear Algebra/invertable.md",
+    "Linear Algebra/Identity matrix.md",
+    "Development/Code/Pure functions.md",
+    "Development/Code/Snippets/typescript.md",
+    "README.md",
+    "Atoms/singular.md",
+    "Development/internet/Hypertext Transfer Protocol.md",
+    "Development/internet/Application Programming Interface.md"
   ]
 }

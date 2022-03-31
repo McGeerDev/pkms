@@ -1,5 +1,5 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
-Status: #idea
+Status: #MOC
 Tags: 
 
 
@@ -8,6 +8,4 @@ Tags:
 
 
 
-
 ---
-# References

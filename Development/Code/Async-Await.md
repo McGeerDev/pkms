@@ -1,9 +1,9 @@
-{{date:YYYYMMDD}}{{time:HHmm}}
+202203310805
 Status: #idea
 Tags: 
 
 
-# {{title}}
+# Async-Await
 
 
 

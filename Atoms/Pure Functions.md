@@ -1,6 +1,7 @@
 202203310802
-Status: #idea
-Tags: [[Core_programming]]
+
+Status: #core
+Tags: [[Core]]
 
 # Pure functions
 

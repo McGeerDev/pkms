@@ -1,4 +1,5 @@
 {
   "folder": "Journal",
-  "autorun": true
+  "autorun": true,
+  "template": "Templates/JournalTemplate"
 }

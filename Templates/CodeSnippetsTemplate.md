@@ -1,7 +1,7 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
 Status: #Snippet
-Tags: #{{title}}
+Tags: [[snippets]]
 
 - basicExplanation
 ```{{title}}

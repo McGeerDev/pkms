@@ -1,9 +1,10 @@
 202203310953
 
-Status: #idea
-Tags: 
+Status: #linear_algebra  
+Tags: [[Linear Algebra]]
 
-# Identity Matrices
+# Identity Matrix
+
 
 When talking about Linear equations, Identity matrices simply show the identity of each element in the matrix.
 That means that the identity matrix:

@@ -1,7 +1,7 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #idea
-Tags: 
+Status: #
+Tags: [[]]
 
 # {{title}}
 
@@ -10,4 +10,3 @@ Tags:
 
 
 ---
-# References

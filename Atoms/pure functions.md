@@ -15,7 +15,7 @@ function pureFunction(x){
 }
 ```
 
-[[Determinants]] are pure functions in that for a arbitrary matrix X the determinant det(X) will remain the same every time it is calculated.
+[[determinants]] are pure functions in that for a arbitrary matrix X the determinant det(X) will remain the same every time it is calculated.
 
 
 ---

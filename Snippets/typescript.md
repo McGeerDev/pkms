@@ -3,7 +3,7 @@
 Status: #Snippet
 Tags: [[snippets]]
 
-- Create an [asynchronous](Async-Await.md) arrow function
+- Create an [asynchronous](async-await.md) arrow function
 ```typescript 
 const functionName = async () => {}
 ```

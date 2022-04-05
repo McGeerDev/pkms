@@ -71,7 +71,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -104,6 +104,7 @@
   },
   "active": "45eb9d761021ab65",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Atoms/nxjs.md",
     "Atoms/inverse matrix.md",
     "Atoms/dependency inversion principle.md",
@@ -114,5 +115,17 @@
     "Journal/2022-04-04.md",
     "Atoms/async-await.md",
     "Atoms/transmission control protocol.md"
+=======
+    "Atoms/Identity Matrix.md",
+    "Atoms/inverse matrix.md",
+    "Atoms/determinants.md",
+    "Atoms/observational pattern.md",
+    "Atoms/patterns of change.md",
+    "Atoms/Inverse.md",
+    "Atoms/application programming interface.md",
+    "Journal/2022-04-01.md",
+    "Snippets/typescript.md",
+    "Atoms/packets.md"
+>>>>>>> 0f5ba73 (Knowledge share)
   ]
 }

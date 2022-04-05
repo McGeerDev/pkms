@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Internet",
+                "query": "framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,15 +104,15 @@
   },
   "active": "45eb9d761021ab65",
   "lastOpenFiles": [
-    "Atoms/patterns of change.md",
-    "Atoms/observational pattern.md",
+    "Atoms/nxjs.md",
+    "Atoms/inverse matrix.md",
+    "Atoms/dependency inversion principle.md",
     "Atoms/interface segregation principle.md",
-    "Atoms/application programming interface.md",
-    "Atoms/cause and effect.md",
-    "Atoms/transmission control protocol.md",
+    "Journal/2022-04-05.md",
+    "Atoms/cache.md",
     "zenaptix/Meeting notes.md",
+    "Journal/2022-04-04.md",
     "Atoms/async-await.md",
-    "Atoms/CRUD.md",
-    "Atoms/determinants.md"
+    "Atoms/transmission control protocol.md"
   ]
 }

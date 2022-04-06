@@ -76,7 +76,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,6 +118,16 @@
     "Atoms/cache.md",
     "zenaptix/Meeting notes.md",
     "Journal/2022-04-04.md",
-    "Atoms/async-await.md"
+    "Atoms/async-await.md",
+    "Atoms/transmission control protocol.md"
+    "Atoms/Identity Matrix.md",
+    "Atoms/determinants.md",
+    "Atoms/observational pattern.md",
+    "Atoms/patterns of change.md",
+    "Atoms/Inverse.md",
+    "Atoms/application programming interface.md",
+    "Journal/2022-04-01.md",
+    "Snippets/typescript.md",
+    "Atoms/packets.md"
   ]
 }

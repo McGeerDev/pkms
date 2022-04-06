@@ -7,8 +7,12 @@
         "id": "45eb9d761021ab65",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Atoms/nxjs.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atoms/nxjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
   "active": "45eb9d761021ab65",
   "lastOpenFiles": [
     "Atoms/nxjs.md",
+    "Journal/2022-04-06.md",
     "Atoms/inverse matrix.md",
     "Atoms/dependency inversion principle.md",
     "Atoms/interface segregation principle.md",
@@ -112,7 +118,6 @@
     "Atoms/cache.md",
     "zenaptix/Meeting notes.md",
     "Journal/2022-04-04.md",
-    "Atoms/async-await.md",
-    "Atoms/transmission control protocol.md"
+    "Atoms/async-await.md"
   ]
 }

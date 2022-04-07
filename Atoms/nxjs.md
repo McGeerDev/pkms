@@ -26,6 +26,10 @@ Tags: [[monorepos]]
 `nx affected:apps` - Displays which applications will be affected by the changes made in the current working branch.
 `nx generate @nrwl/react:app --dryRun` - The dryRun flag will display which files and folders will be made if the command is run without creating anything. The generate command can be shortened to `g`  and the rest of the command creates a [[react]] app from the [[react]] collection using the nx core _generator_. Can setup [[routing]] automatically
 
+##### Adding generators
+`yarn add -D @nrwl/node` - Adds the node generator to the devDependencies[^5]
+`npm install --save-dev @nrwl/node` - ^
+
 
 ## Links
 
@@ -35,4 +39,5 @@ https://nx.dev/getting-started/intro
 [^1]: Delete the node_modules folder and the .lock file before the install
 [^2]: ~ Being the root directory of the project
 [^3]: implicitDependencies only works in a project.json file
-[^4]: Implicit 
+[^4]: Implicit Dependencies are not supported in package.json
+[^5]: We install generators to dev dependencies as we will only be using the generators during the dev cycle

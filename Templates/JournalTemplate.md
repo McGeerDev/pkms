@@ -2,9 +2,7 @@
 
 ## Tasks for the Sprint
  - [ ] Renew drivers license 
-	 - [ ] Get ID photos taken
 	 - [ ] Get Proof of address
-	 - [ ] Get eye tests done
  - [ ] Get Vaccinated
  - [ ] Save Money for Namibia
  - [ ] Sherna Smith rent agreement contract

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atoms/herd it all.md",
+            "file": "Atoms/pkms on github.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms/herd it all.md",
+                "file": "Atoms/pkms on github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "45eb9d761021ab65",
   "lastOpenFiles": [
+    "Atoms/pkms on github.md",
     "Atoms/herd it all.md",
     "Templates/ProjectIdeaTemplate.md",
     "Atoms/webpack.md",
@@ -125,7 +126,6 @@
     "Journal/2022-04-08.md",
     "Journal/2022-04-07.md",
     "Journal/2022-04-06.md",
-    "Templates/JournalTemplate.md",
-    "Atoms/inverse matrix.md"
+    "Templates/JournalTemplate.md"
   ]
 }

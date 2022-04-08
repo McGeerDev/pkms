@@ -22,4 +22,4 @@ The game should be built on a ridiculously efficient/fast engine.
 
 ---
 ## Links
-
+https://victorzhou.com/blog/build-an-io-game-part-1/

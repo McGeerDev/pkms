@@ -98,17 +98,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "992a8ae663fd58fd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",

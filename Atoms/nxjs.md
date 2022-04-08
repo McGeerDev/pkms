@@ -26,6 +26,7 @@ Tags: [[monorepos]]
 `nx affected:apps` - Displays which applications will be affected by the changes made in the current working branch.
 `nx generate @nrwl/react:app --dryRun` - The dryRun flag will display which files and folders will be made if the command is run without creating anything. The generate command can be shortened to `g`  and the rest of the command creates a [[react]] app from the [[react]] collection using the nx core _generator_. Can setup [[routing]] automatically
 `nx g @nrwl/react:remove app-name` - Removes app from the workspace and workspace and updates the workspace.json.
+`nx g @nrwl/workspace --help`
 
 ##### Adding generators
 `yarn add -D @nrwl/node` - Adds the node generator to the devDependencies[^5]

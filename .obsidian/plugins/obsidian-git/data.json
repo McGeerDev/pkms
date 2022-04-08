@@ -10,7 +10,7 @@
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
-  "updateSubmodules": false,
+  "updateSubmodules": true,
   "syncMethod": "rebase",
   "gitPath": "",
   "customMessageOnAutoBackup": false,

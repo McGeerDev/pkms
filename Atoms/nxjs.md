@@ -15,7 +15,7 @@ Tags: [[monorepos]]
 - Nx dependencies with ```nx graph``` only displays implicit dependencies[^3]. Could not get it to display dependencies from a package.json file. Only displays implicit dependencies if spcified in a project.json **not** a package.json [^4]
 	- Does not auto-map implicit dependencies
 - After adding a generator to the workspace a `yarn install` should also be run.
-
+- Rule of thumb for where the code should be located it 80% in the libs folder and 20% in the apps folder
 
 
 ---
@@ -24,7 +24,7 @@ Tags: [[monorepos]]
 `nx report` - Displays which _generators_ are installed in the workspace
 `nx reset` - Clears the nx [[cache]] from workspace metadata and artifacts.
 `nx affected:apps` - Displays which applications will be affected by the changes made in the current working branch.
-`nx generate @nrwl/react:app --dryRun` - The dryRun flag will display which files and folders will be made if the command is run without creating anything. The generate command can be shortened to `g`  and the rest of the command creates a [[react]] app from the [[react]] collection using the nx core _generator_. Can setup [[routing]] automatically
+`nx generate @nrwl/react:app --dryRun` - The dryRun flag will display which files and folders will be created if the command is run without creating anything. The generate command can be shortened to `g`  and the rest of the command creates a [[react]] app from the [[react]] collection using the nx core _generator_. Can setup [[routing]] automatically
 `nx g @nrwl/react:remove app-name` - Removes app from the workspace and workspace and updates the workspace.json.
 `nx g @nrwl/workspace --help`
 
@@ -32,7 +32,14 @@ Tags: [[monorepos]]
 `yarn add -D @nrwl/node` - Adds the node generator to the devDependencies[^5]
 `npm install --save-dev @nrwl/node` - ^
 
+#### Issues
+1. Running `nx serve --target=serve --all` give a server error that the port (used by the first app) is already in use
+2. Problem2
 
+#### Solutions / Workarounds
+1. Running the serve all command with the parallel flag allows for multiple apps to be served
+ > nx serve --parallel --target=serve --all
+2. Solution2
 ## Links
 
 https://nx.dev/getting-started/intro

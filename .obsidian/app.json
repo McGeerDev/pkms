@@ -5,5 +5,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Atoms",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "spellcheck": true,
+  "vimMode": true
 }

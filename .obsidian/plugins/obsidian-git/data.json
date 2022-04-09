@@ -10,12 +10,12 @@
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
-  "updateSubmodules": true,
-  "syncMethod": "rebase",
+  "updateSubmodules": false,
+  "syncMethod": "merge",
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "git@github.com:McGeerDev/pkms.git"
+  "basePath": "https://github.com/McGeerDev/pkms.git"
 }

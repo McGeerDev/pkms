@@ -1,15 +1,27 @@
 {
   "main": {
-    "id": "f2891184393b983e",
+    "id": "7340082ecebf8938",
     "type": "split",
     "children": [
       {
-        "id": "45eb9d761021ab65",
+        "id": "a0aa2887e1411c31",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atoms/pkms on github.md",
+            "file": "Templates/CodeSnippetsTemplate.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "35a7edffdcdb3de3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +31,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a00c587aef3cc09a",
+    "id": "d4aa6c9eda68ffa9",
     "type": "split",
     "children": [
       {
-        "id": "4aebbd8dbb33ae19",
+        "id": "bd388cd3ccbf2283",
         "type": "tabs",
         "children": [
           {
-            "id": "f5556775cbebe425",
+            "id": "92e0ff178ab52b2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +47,12 @@
             }
           },
           {
-            "id": "b33ded0df4823d80",
+            "id": "789365895ca858e8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "framework",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,32 +68,40 @@
     "width": 300
   },
   "right": {
-    "id": "b04da8662a20fb37",
+    "id": "35c62ca921413f47",
     "type": "split",
     "children": [
       {
-        "id": "e53fc2f3fc4e4607",
+        "id": "0e5ee4098b4a57cc",
         "type": "tabs",
         "children": [
           {
-            "id": "c5d4521901d80004",
+            "id": "7d112bcd4c4901fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a71b70b7911eb66c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms/pkms on github.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "228df4a4996f8602",
+            "id": "53657e18c6bd3643",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -92,15 +112,7 @@
             }
           },
           {
-            "id": "6c16c50feeca893c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a14680e85595a709",
+            "id": "9a6848e6f36ab155",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -112,20 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "45eb9d761021ab65",
+  "active": "35a7edffdcdb3de3",
   "lastOpenFiles": [
-    "Atoms/pkms on github.md",
-    "Atoms/herd it all.md",
-    "Templates/ProjectIdeaTemplate.md",
-    "Atoms/webpack.md",
-    "Atoms/nxjs.md",
-    "Atoms/gtd.md",
-    "Journal/2022-04-08.md",
-    "Journal/2022-04-07.md",
-    "Journal/2022-04-06.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/CodeSnippetsTemplate.md",
+    "Templates/BasicNoteTemplate.md",
+    "Atoms/hypertext transfer protocol.md",
+    "Atoms/Identity Matrix.md",
+    "Atoms/interface segregation principle.md",
+    "Atoms/patterns of change.md",
+    "Atoms/observational pattern.md",
+    "Atoms/number systems.md",
     "Templates/JournalTemplate.md"
   ]
 }

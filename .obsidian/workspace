@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a0aa2887e1411c31",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/CodeSnippetsTemplate.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "35a7edffdcdb3de3",
         "type": "leaf",
         "state": {

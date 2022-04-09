@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "conflict-files-obsidian-git.md",
+=======
+            "file": "Templates/CodeSnippetsTemplate.md",
+>>>>>>> a2c0cb3 (vault backup: 2022-04-09 09:01:36)
             "mode": "source",
             "source": false
           }
@@ -77,7 +81,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "Templates/CodeSnippetsTemplate.md",
+>>>>>>> a2c0cb3 (vault backup: 2022-04-09 09:01:36)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,10 @@
   },
   "active": "35a7edffdcdb3de3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
+=======
+>>>>>>> a2c0cb3 (vault backup: 2022-04-09 09:01:36)
     "Templates/CodeSnippetsTemplate.md",
     "Templates/BasicNoteTemplate.md",
     "Atoms/hypertext transfer protocol.md",
@@ -125,6 +136,11 @@
     "Atoms/patterns of change.md",
     "Atoms/observational pattern.md",
     "Atoms/number systems.md",
+<<<<<<< HEAD
     "Templates/JournalTemplate.md"
+=======
+    "Templates/JournalTemplate.md",
+    "Snippets/typescript.md"
+>>>>>>> a2c0cb3 (vault backup: 2022-04-09 09:01:36)
   ]
 }

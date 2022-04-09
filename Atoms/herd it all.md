@@ -7,7 +7,7 @@
 ---
 
 ### Summary
-This is a game where you are a shepherd and you should herd sheep into different pens for sheering. Multiplayer add teamwork.
+This is a game where you are a shepherd and you should herd sheep into different pens for sheering. Multiplayer: add teamwork.
 The game should be built on a ridiculously efficient/fast engine. 
 
 #### Concepts
@@ -15,9 +15,9 @@ The game should be built on a ridiculously efficient/fast engine.
 
 
 ### Tools
-- [[sockets]] - Using websockets to host the game online [socket.io](https://socket.io/)
-- [[module bundler]] - Using [snowpack](https://www.snowpack.dev/) to bundle [[front-end]] modules 
-- [[gRPC]] - Using golang with [gRPC](https://grpc.io/) for the [[back-end]]
+- [[sockets]] - Use websockets to host the game online [socket.io](https://socket.io/)
+- [[module bundler]] - Use [snowpack](https://www.snowpack.dev/) to bundle [[front-end]] modules 
+- [[gRPC]] - Use nest with [gRPC](https://grpc.io/) for the [[back-end]]
 - 
 
 ---

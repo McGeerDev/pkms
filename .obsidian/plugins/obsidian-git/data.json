@@ -11,11 +11,7 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-<<<<<<< HEAD
   "syncMethod": "merge",
-=======
-  "syncMethod": "rebase",
->>>>>>> a2c0cb3 (vault backup: 2022-04-09 09:01:36)
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,

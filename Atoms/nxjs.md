@@ -12,7 +12,7 @@ Tags: [[monorepos]]
 - When you add a `project.json` as part of your app/package you should run a fresh[^1] npm/yarn install
 - Nx functions (serve/build) check the ~/workspace.json file before the ~/package.json.workspaces for the workspaces it should act on.[^2]
 - Not all nx functions are [cached](cache), only the actions found in the list cachableOperations in the ~/nx.json file.
-- Nx dependencies with ```nx graph``` only displays implicit dependencies[^3]. Could not get it to display dependencies from a package.json file. Only displays implicit dependencies if spcified in a project.json **not** a package.json [^4]
+- Nx dependencies with ```nx graph``` only displays implicit dependencies[^3]. Could not get it to display dependencies from a package.json file. Only displays implicit dependencies if specified in a project.json **not** a package.json [^4]
 	- Does not auto-map implicit dependencies
 - After adding a generator to the workspace a `yarn install` should also be run.
 - Rule of thumb for where the code should be located it 80% in the libs folder and 20% in the apps folder

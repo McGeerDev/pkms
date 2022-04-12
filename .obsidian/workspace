@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zenaptix/Compliance Platfrom.md",
+            "file": "Atoms/nxjs.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "zenaptix/Compliance Platfrom.md",
+=======
+                "file": "Atoms/nxjs.md",
+>>>>>>> ba152735e9e4d763f2c80abdafd934c8788f5280
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,5 +130,15 @@
     "Atoms/application programming interface.md",
     "Templates/BasicNoteTemplate.md",
     "Templates/SkillsTemplate.md"
+    "Atoms/nxjs.md",
+    "Atoms/application programming interface.md",
+    "Templates/BasicNoteTemplate.md",
+    "Templates/SkillsTemplate.md",
+    "Atoms/herd it all.md",
+    "Journal/2022-04-09.md",
+    "Journal/2022-04-08.md",
+    "Journal/2022-04-07.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/CodeSnippetsTemplate.md"
   ]
 }

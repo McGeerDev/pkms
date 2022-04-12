@@ -3,8 +3,7 @@
 Status: #productivity
 Tags: [[productivity]]
 
-# gtd
-## Getting Things Done
+# Getting Things Done
 A task management system in 5 steps
 
 - Capture

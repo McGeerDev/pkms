@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atoms/determinants.md",
+            "file": "Atoms/Identity Matrix.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms/determinants.md",
+                "file": "Atoms/Identity Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "35a7edffdcdb3de3",
   "lastOpenFiles": [
+    "Atoms/Identity Matrix.md",
+    "Atoms/inverse matrix.md",
     "Atoms/determinants.md",
     "Atoms/getting things done.md",
     "Atoms/nxjs.md",
@@ -123,8 +125,6 @@
     "Templates/BasicNoteTemplate.md",
     "Templates/SkillsTemplate.md",
     "Atoms/herd it all.md",
-    "Journal/2022-04-09.md",
-    "Journal/2022-04-08.md",
-    "Journal/2022-04-07.md"
+    "Journal/2022-04-09.md"
   ]
 }

@@ -12,6 +12,9 @@ Determinants are used to find the inverse of an [invertable](Inverse Matrix) mat
 Determinants are used to find solutions to systems of the Ax = B. Where A is [invertable](Inverse Matrix)
 
 
+
+
+
 ---
 # References
 

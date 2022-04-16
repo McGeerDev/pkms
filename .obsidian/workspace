@@ -99,12 +99,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c1ffb74037aafafb",
   "lastOpenFiles": [
@@ -113,5 +113,14 @@
     "Atoms/docker.md",
     "Atoms/nxjs.md",
     "Journal/2022-04-12.md"
+    "Atoms/determinants.md",
+    "Atoms/Identity Matrix.md",
+    "Atoms/inverse matrix.md",
+    "Atoms/getting things done.md",
+    "Atoms/nxjs.md",
+    "Atoms/application programming interface.md",
+    "Templates/BasicNoteTemplate.md",
+    "Templates/SkillsTemplate.md",
+    "Atoms/herd it all.md"
   ]
 }

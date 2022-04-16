@@ -16,7 +16,7 @@ Tags: [[monorepos]]
 	- Does not auto-map implicit dependencies
 - After adding a generator to the workspace a `yarn install` should also be run.
 - Rule of thumb for where the code should be located it 80% in the libs folder and 20% in the apps folder
-
+- 
 
 ---
 #### Useful nx functions

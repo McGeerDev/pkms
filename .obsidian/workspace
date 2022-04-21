@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/2022-04-16.md",
+            "file": "Journal/2022-04-21.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Journal/2022-04-16.md",
+=======
+                "file": "Journal/2022-04-21.md",
+>>>>>>> 4146bd4 (Knowledge share)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +108,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c1ffb74037aafafb",
   "lastOpenFiles": [
-    "Journal/2022-04-16.md",
     "Atoms/lessons.md",
     "Atoms/docker.md",
     "Atoms/nxjs.md",
@@ -117,10 +121,15 @@
     "Atoms/Identity Matrix.md",
     "Atoms/inverse matrix.md",
     "Atoms/getting things done.md",
+    "Journal/2022-04-21.md",
+    "Atoms/gaussian elimination.md",
+    "Atoms/linear equations.md",
+    "Journal/2022-04-20.md",
+    "Atoms/pkms on github.md",
     "Atoms/nxjs.md",
-    "Atoms/application programming interface.md",
-    "Templates/BasicNoteTemplate.md",
-    "Templates/SkillsTemplate.md",
-    "Atoms/herd it all.md"
+    "Atoms/determinants.md",
+    "Atoms/decorator.md",
+    "Journal/2022-04-12.md",
+    "Atoms/Identity Matrix.md"
   ]
 }

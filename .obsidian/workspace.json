@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-02-28.md",
+                "file": "Atoms/herd it all.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-02-28.md",
+                "file": "Atoms/herd it all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,19 @@
   },
   "active": "d91cb6581d9888e7",
   "lastOpenFiles": [
-    "Journal/2024-02-28.md"
+    "Atoms/docker.md",
+    "Atoms/determinants.md",
+    "Templates/CodeSnippetsTemplate.md",
+    "Templates/BasicNoteTemplate.md",
+    "Templates/ProjectIdeaTemplate.md",
+    "Templates/MOCTemplate.md",
+    "attachments/Pasted image 20220401165322.png",
+    "Journal/2024-02-28.md",
+    "Journal/2022-04-08.md",
+    "Journal/2022-04-06.md",
+    "Journal/2022-04-01.md",
+    "Journal/2022-03-31.md",
+    "Templates/JournalTemplate.md",
+    "Templates/SkillsTemplate.md"
   ]
 }

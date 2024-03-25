@@ -5,7 +5,6 @@
 # herd it all
 
 ---
-
 ### Summary
 This is a game where you are a shepherd and you should herd sheep into different pens for sheering. Multiplayer: add teamwork.
 The game should be built on a ridiculously efficient/fast engine. 

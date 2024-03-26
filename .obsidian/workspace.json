@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atoms/boids.md",
+                "file": "Atoms/nxjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms/boids.md",
+                "file": "Atoms/nxjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +135,12 @@
   },
   "active": "d19f861873cb9cc4",
   "lastOpenFiles": [
+    "Atoms/Linear Algebra.md",
+    "Atoms/interface segregation principle.md",
+    "Atoms/Identity Matrix.md",
+    "Atoms/hypertext transfer protocol.md",
     "Atoms/herd it all.md",
     "Atoms/boids.md",
-    "Atoms/Identity Matrix.md",
     "attachments/Pasted image 20220401165322.png",
     "Templates/SkillsTemplate.md",
     "Templates/ProjectIdeaTemplate.md",
@@ -146,7 +149,6 @@
     "Templates/BasicNoteTemplate.md",
     "Snippets/typescript.md",
     "Snippets/bash.md",
-    "Atoms/Linear Algebra.md",
     "Atoms/docker.md",
     "Atoms/determinants.md",
     "Journal/2024-02-28.md",
